@@ -7,3 +7,5 @@ Tecnologias usadas nesse exercícios:
 - Docker
 - Sql Server 
 - Azure Database
+
+Além das tecnologias, foram usados conceito de POO.
