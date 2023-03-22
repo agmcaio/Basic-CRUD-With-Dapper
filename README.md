@@ -9,3 +9,5 @@ Tecnologias usadas nesse exercícios:
 - Azure Database
 
 Além das tecnologias, foram usados conceito de POO.
+
+Lembrar de ir na pasta bin\Debug\net6.0 e alterar a connection string para a sua no arquivo "appsettings.json"
