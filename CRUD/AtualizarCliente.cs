@@ -30,7 +30,7 @@ public static class AtualizarCliente
                     Update 
                         Clientes 
                     Set 
-                        Cpf=@@pf,
+                        Cpf=@Cpf,
                         Nome=@Nome, 
                         Idade=@Idade,
                         Email=@Email,
